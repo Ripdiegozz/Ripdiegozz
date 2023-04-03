@@ -1,5 +1,8 @@
 # 💫 About Me:
-🔭 I’m currently working on Bluebyte<br>🌱 I’m currently learning Nest.js, MongoDB<br>👨‍💻 All of my projects are available at https://dagadev.vercel.app/<br>💬 Ask me about react<br>📫 How to reach me dagadev@proton.me
+🔭 I’m currently working on Bluebyte<br>
+🌱 I’m currently learning Nest.js, MongoDB<br>
+👨‍💻 All of my projects are available at https://dagadev.vercel.app/<br>
+💬 Ask me about react<br>📫 How to reach me dagadev@proton.me
 
 
 ## 🌐 Socials:
