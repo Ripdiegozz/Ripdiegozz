@@ -1,5 +1,3 @@
-#!/bin/bash
-
 # Function to echo with sleep and color
 function sleep_echo() {
     local color=$1
