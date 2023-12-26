@@ -38,7 +38,7 @@
   <div>
     <p align="center">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=java,vscode,planetscale,supabase,materialui" width="250"/>
+        <img src="https://skillicons.dev/icons?i=java,vscode,planetscale" width="250"/>
       </a>
     </p>
   </div>
