@@ -1,6 +1,6 @@
 <div align="center">
   <div align="center">
-    <img src="https://github.com/Ripdiegozz/Ripdiegozz/assets/82405377/699633b3-9825-4979-a7ee-44b658275686" alt="Here is a little bit about me!" width="900">
+    <img src="./prev.gif" alt="Here is a little bit about me!" width="900">
     <br > GIF loading a little slow? You can drink a cup of ☕ first.<br/>
   </div>
 
