@@ -1,9 +1,9 @@
 <div align="center">
   <div align="center">
-    <img src="./prev.gif" alt="Here is a little bit about me!" width="900">
+    <img src="https://github.com/Ripdiegozz/Ripdiegozz/assets/82405377/699633b3-9825-4979-a7ee-44b658275686" alt="Here is a little bit about me!" width="900">
     <br > GIF loading a little slow? You can drink a cup of ☕ first.<br/>
   </div>
-  
+
   ### **Having fun with these stack 👨🏽‍💻**
   
   <br/>
@@ -18,7 +18,7 @@
   <div>
     <p align="center">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=html,css,mysql,prisma,github,redux" />
+        <img src="https://skillicons.dev/icons?i=html,css,mysql,prisma,github" />
       </a>
     </p>
   </div>
@@ -38,7 +38,7 @@
   <div>
     <p align="center">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=java,vscode,planetscale" width="250"/>
+        <img src="https://skillicons.dev/icons?i=java,vscode,planetscale" width="150"/>
       </a>
     </p>
   </div>
