@@ -6,7 +6,7 @@
 
 <hr/>
 
-<img align='right' src='./assets/1.gif' width='25%'>  
+<img align='right' src='./assets/1.gif' width='40%'>  
 
 {  
 
