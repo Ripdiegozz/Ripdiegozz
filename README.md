@@ -1,61 +1,101 @@
-<div align="center">
-  <div align="center">
-    <img src="./prev.gif" alt="Here is a little bit about me!" width="900">
-    <br > GIF loading a little slow? You can drink a cup of ☕ first.<br/>
-  </div>
+<h2 align="center">👋 Hi Everyone</h2>
 
-  ### **Having fun with these stack 👨🏽‍💻**
-  
-  <br/>
-  <div>
-    <p align="center">
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=js,ts,git,nextjs,react,nodejs,expressjs" />
-      </a>
-    </p>
-  </div>
-  <br/>
-  <div>
-    <p align="center">
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=html,css,mysql,java,spring" />
-      </a>
-    </p>
-  </div>
-  <br/>
-  <div>
-    <p align="center">
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=astro,vite,github,prisma" />
-      </a>
-    </p>
-  </div>
-  
-  <br/>
-  
-  ### and more :3
-  
-  <div>
-    <p align="center">
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=vscode,planetscale" width="100"/>
-      </a>
-    </p>
-  </div>
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=Ripdiegozz&color=blue"/>
+</p>
 
-  <h3 align="center">Connect with me:</h3>
-  <p align="center">
-    <a href="https://twitter.com/rip_diegozz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rip_diegozz" height="30" width="40" /></a>
-    <a href="https://linkedin.com/in/dagadev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dagadev" height="30" width="40" /></a>
-    <a href="https://instagram.com/__666rip.diego" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__666rip.diego" height="30" width="40" /></a>
-    <p href="https://discord.gg/__666.ripdiegozz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="__666.ripdiegozz" height="30" width="40" />__666.ripdiegozz</p>
-    <a href="mailto:dagadev@proton.me" target="blank" style="text-decoration: none;"><span style="font-size: 18px;">📫</span>dagadev@proton.me</p>
-  </p>
-  
-  <br/>
-  
-  ![Stats](https://github-readme-stats.vercel.app/api?username=Ripdiegozz&theme=dark&show_icons=true&bg_color=1a1a1a&icon_color=a0ffff)
-  
-  <br/>
-  
-</div>
+<hr/>
+
+<img align='right' src='./assets/1.gif' width='25%'>  
+
+{  
+
+* 🎮 `My name is`: **Diego**,
+* 👨‍💼 `Pronouns`: **He/Him**,
+* 🦾 `I'm`: **20 years old**,
+* 📖 `I’m currently learning`: **Rust**,
+* ☕ `I love`: **Mocaccino**  ,
+* 💻 `Favorite lang`: **Java & TypeScript**  
+
+}
+
+<br/>
+
+<h2 align="center">☕ Statistics</h2>
+
+<p align="center">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=Ripdiegozz&show_icons=true&count_private=true&theme=material-palenight&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Ripdiegozz&layout=compact&hide_border=true&theme=material-palenight&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=Ripdiegozz&theme=material-palenight&hide_border=true&background=FFFFFF00">
+</p>
+
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=Ripdiegozz&theme=tokyonight"/>
+</p>
+
+<h2 align="center">🚀 Projects</h2>
+<p align="center">Take a look at my best projects.</p>
+
+| <a href="https://github.com/Ripdiegozz/FilmPassport" target="_blank">**Film Passport**</a> | <a href="https://github.com/Ripdiegozz/eden" target="_blank">**Eden**</a> | <a href="https://github.com/Ripdiegozz/Notewave" target="_blank">**Notewave**</a> | <a href="https://github.com/Ripdiegozz/BluebyteStore" target="_blank">**Bluebyte Store**</a> |
+| :---: | :---: | :---: | :---: |
+<img align='center' src='https://img.icons8.com/?size=100&id=46U6mq4cUDbf&format=png&color=ffffff' width="100px"  height='100px'> | <img align='center' width="100px" src='https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2ltYWdlcy5jbGVyay5kZXYvdXBsb2FkZWQvaW1nXzJhb2R0RjlHM2RmV1llVjBIc2taVXRvSG0xRSJ9?width=200' height='100px'>  | <img align='center' src='https://notewave-lake.vercel.app/_next/image?url=%2Ffavicon-dark.ico&w=64&q=75' width="100px" height='100px'> | <img align='center' src='https://github.com/Ripdiegozz/Ripdiegozz/assets/82405377/0f3011bd-3e52-4086-80ee-fd5776e05b21?raw=true' width="100px" height='100px'> |
+| <p>Movie website made with Next.js.</p> <a href="https://github.com/Ripdiegozz/FilmPassport" target="_blank">`Repository`</a> <a href="https://film-passport.netlify.app/" target="_blank">`Website`</a> | <p>Full-Stack Discord Clone</p> <a href="https://github.com/Ripdiegozz/Eden" target="_blank">`Repository`</a> <a href="https://eden-coral.vercel.app/" target="_blank">`Website`</a> | <p>Full-Stack Notion Clone</p> <a href="https://github.com/Ripdiegozz/Notewave" target="_blank">`Repository`</a> <a href="https://notewave-lake.vercel.app/" target="_blank">`Website`</a> | <p>Full-Stack Ecommerce with Stripe integrated</p> <a href="https://github.com/Ripdiegozz/BluebyteStore" target="_blank">`Repository`</a> <a href="https://bluebyte-store.vercel.app/" target="_blank">`Website`</a> |
+<br/>
+
+<h2 align="center">🌱 My Skills</h2>
+
+<h4 align="center">💻 Programming languages (and html)</h4>
+
+<p align="center">
+<a href="https://github.com/search?q=user%3ASammwyy1+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3ASammwyy1+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3ASammwyy1+language%3Ajava"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3ASammwyy1+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
+<a href="https://github.com/search?q=user%3ASammwyy1+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3ASammwyy1+language%3Ajavascript"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3ASammwyy1+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3ASammwyy1+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
+</p>
+
+<h4 align="center">📚 Frameworks and Libraries</h4>
+
+<p align="center">
+<a href="#"><img alt="Electron" src="https://img.shields.io/badge/Electron-20232e.svg?logo=electron&logoColor=white"></a>
+<a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express-404d59.svg?logo=express&logoColor=white"></a>
+<a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a>
+<a href="#"><img alt="JUnit" src="https://custom-icon-badges.demolab.com/badge/JUnit-25A162.svg?logo=check-circle&logoColor=white"></a>
+<a href="#"><img alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E.svg?logo=nestjs&logoColor=white"></a>
+<a href="#"><img alt="NextJS" src="https://img.shields.io/badge/NextJS-000000.svg?logo=nextdotjs&logoColor=white"></a>
+<a href="#"><img alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?logo=react&logoColor=black"></a>
+<a href="#"><img alt="Tauri" src="https://img.shields.io/badge/Tauri-24C8DB.svg?logo=tauri&logoColor=white"></a>
+</p>
+
+<h4 align="center">⚙ Software</h4>
+
+<p align="center">
+<a href="#"><img alt="Apache" src="https://img.shields.io/badge/Apache-D22128.svg?logo=apache&logoColor=white"></a>
+<a href="#"><img alt="Maven" src="https://img.shields.io/badge/Apache_Maven-C71A36.svg?logo=apache-maven&logoColor=white"></a>
+<a href="#"><img alt="Debian" src="https://img.shields.io/badge/Debian-A81D33.svg?logo=debian&logoColor=white"></a>
+<a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
+<a href="#"><img alt="Insomnia" src="https://img.shields.io/badge/Insomnia-4000BF.svg?logo=insomnia&logoColor=white"></a>
+<a href="#"><img alt="Nginx" src="https://img.shields.io/badge/Nginx-009639.svg?logo=nginx&logoColor=white"></a>
+<a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white"></a>
+<a href="#"><img alt="Trello" src="https://img.shields.io/badge/Trello-0052CC.svg?logo=trello&logoColor=white"></a>
+<a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420.svg?logo=ubuntu&logoColor=white"></a>
+<a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+</p>
+
+<h4 align="center">☁ Cloud and Providers</h4>
+
+<p align="center">
+<a href="#"><img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E.svg?logo=amazon-aws&logoColor=white"></a>
+<a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
+<a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
+<a href="#"><img alt="Nginx" src="https://img.shields.io/badge/Nginx-009639.svg?logo=nginx&logoColor=white"></a>
+<a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
+</p>
+
+<br/>
+
+<h2 align="center">📌 Pinned Repositories</h2>
+<p align="center">Take a look at my most outstanding repositories.</p>
