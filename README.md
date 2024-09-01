@@ -65,7 +65,6 @@
 <a href="#"><img alt="Spring Security" src="https://img.shields.io/badge/Spring%20Security-25A162.svg?logo=springsecurity&logoColor=white"></a>
 <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express-404d59.svg?logo=express&logoColor=white"></a>
 <a href="#"><img alt="JUnit" src="https://custom-icon-badges.demolab.com/badge/JUnit-25A162.svg?logo=check-circle&logoColor=white"></a>
-<a href="#"><img alt="Hono.js" src="https://img.shields.io/badge/Hono.js-E0234E.svg?logo=hono&logoColor=white"></a>
 <a href="#"><img alt="NextJS" src="https://img.shields.io/badge/NextJS-000000.svg?logo=nextdotjs&logoColor=white"></a>
 <a href="#"><img alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?logo=react&logoColor=black"></a>
 <a href="#"><img alt="Angular" src="https://img.shields.io/badge/Angular-E0234E.svg?logo=angular&logoColor=white"></a>
@@ -80,11 +79,10 @@
 <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2671E5.svg?logo=docker&logoColor=white"></a>
 <a href="#"><img alt="Swagger" src="https://img.shields.io/badge/Swagger-009639.svg?logo=swagger&logoColor=white"></a>
 <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-<a href="#"><img alt="Insomnia" src="https://img.shields.io/badge/Insomnia-4000BF.svg?logo=insomnia&logoColor=white"></a>
 <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-E95420.svg?logo=postman&logoColor=white"></a>
 <a href="#"><img alt="Nginx" src="https://img.shields.io/badge/Nginx-009639.svg?logo=nginx&logoColor=white"></a>
 <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white"></a>
-<a href="#"><img alt="Trello" src="https://img.shields.io/badge/Trello-0052CC.svg?logo=trello&logoColor=white"></a>
+<a href="#"><img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC.svg?logo=jira&logoColor=white"></a>
 <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420.svg?logo=ubuntu&logoColor=white"></a>
 <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual%20studio&logoColor=white"></a>
 <a href="#"><img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-7000BF.svg?logo=intellijidea&logoColor=white"></a>
