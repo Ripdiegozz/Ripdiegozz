@@ -4,8 +4,6 @@
     <img src="https://komarev.com/ghpvc/?username=Ripdiegozz&color=blue"/>
 </p>
 
-<hr/>
-
 <img align='right' src='./assets/1.gif' width='40%'>  
 
 {  
