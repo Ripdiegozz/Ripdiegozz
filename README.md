@@ -11,7 +11,7 @@
 * 🎮 `My name is`: **Diego**,
 * 👨‍💼 `Pronouns`: **He/Him**,
 * 🦾 `I'm`: **22 years old**,
-* 📖 `I’m currently learning`: **Golang**,
+* 📖 `I’m currently learning`: **Rust**,
 * ☕ `I love`: **Cappuccino with Baileys**  ,
 * 💻 `Favorite lang`: **TypeScript**  
 
