@@ -24,7 +24,7 @@
 
 <h2 align="center">💼 Places I've shipped code</h2>
 
-- <a href="https://wazuh.com/"><strong>Wazuh</strong></a>, Full-Stack Engineer · Application & CI/CD ownership · Building the <strong>Wazuh AI Assistant</strong>: a backend with tools that query the system and suggest actions.
+- <a href="https://wazuh.com/"><strong>Wazuh</strong></a>, Full-Stack Engineer · Application & CI/CD ownership · Building the <strong>Wazuh AI Assistant</strong>: an LLM-powered backend that turns manual security-platform searches into guided, actionable answers.
 - <a href="https://trespimedios.co/"><strong>Tres Pi Medios</strong></a> → <a href="https://www.stanleyblackanddecker.com/"><strong>Stanley Black & Decker</strong></a>, Full-Stack Dev · Back office tools & custom business software · Conversation routing on Smooch (now Zendesk Conversations).
 - <a href="https://www.supergiros.com.co/"><strong>SuperGIROS</strong></a>, Full-Stack Intern · Back office software serving <strong>1,100+ service points</strong> across Norte de Santander · Chatbots & inventory systems.
 
