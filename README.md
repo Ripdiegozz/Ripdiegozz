@@ -1,40 +1,40 @@
-<h2 align="center">👋 Hi Everyone</h2>
+<h2 align="center">👋 Hi, I'm Diego. Grab a coffee and look around.</h2>
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=Ripdiegozz&color=blue"/>
 </p>
 
-<img align='right' src='./assets/kakyoin.gif' width='40%'>  
+<table>
+  <tr>
+    <td width="58%" valign="top">
+      <p>{</p>
+      <p>&nbsp;&nbsp;🎮 <code>My name is</code>: <b>Diego</b>,</p>
+      <p>&nbsp;&nbsp;👨‍💼 <code>Pronouns</code>: <b>He/Him</b>,</p>
+      <p>&nbsp;&nbsp;💼 <code>Role</code>: <b>Full-Stack Engineer</b>,</p>
+      <p>&nbsp;&nbsp;🎓 <code>Education</code>: <b>B.S. Systems Engineering (UNAD) · SENA Software Analysis & Development</b>,</p>
+      <p>&nbsp;&nbsp;📖 <code>Currently learning</code>: <b>Rust</b>,</p>
+      <p>&nbsp;&nbsp;☕ <code>Runs on</code>: <b>Cappuccino with Baileys</b>,</p>
+      <p>&nbsp;&nbsp;💻 <code>Favorite lang</code>: <b>TypeScript</b></p>
+      <p>}</p>
+    </td>
+    <td width="42%" valign="top" align="center">
+      <img src='./assets/kakyoin.gif' width='70%'>
+    </td>
+  </tr>
+</table>
 
-{  
+<h2 align="center">💼 Places I've shipped code</h2>
 
-* 🎮 `My name is`: **Diego**,
-* 👨‍💼 `Pronouns`: **He/Him**,
-* 🦾 `I'm`: **22 years old**,
-* 📖 `I’m currently learning`: **Rust**,
-* ☕ `I love`: **Cappuccino with Baileys**  ,
-* 💻 `Favorite lang`: **TypeScript**  
-
-}
+- <a href="https://wazuh.com/"><strong>Wazuh</strong></a>, Full-Stack Engineer · Application & CI/CD ownership · Building the <strong>Wazuh AI Assistant</strong>: a backend with tools that query the system and suggest actions.
+- <a href="https://trespimedios.co/"><strong>Tres Pi Medios</strong></a> → <a href="https://www.stanleyblackanddecker.com/"><strong>Stanley Black & Decker</strong></a>, Full-Stack Dev · Back office tools & custom business software · Conversation routing on Smooch (now Zendesk Conversations).
+- <a href="https://www.supergiros.com.co/"><strong>SuperGIROS</strong></a>, Full-Stack Intern · Back office software serving <strong>1,100+ service points</strong> across Norte de Santander · Chatbots & inventory systems.
 
 <br/>
 
-<h2 align="center">💼 Experience</h2>
+<h2 align="center">📊 My GitHub addiction in numbers</h2>
 
 <p align="center">
-  <a href="https://wazuh.com/"><strong>Wazuh</strong></a> — Full-Stack Engineer · XDR+SIEM dashboard, CI/CD ownership.<br/>
-  <a href="https://www.stanleyblackanddecker.com/"><strong>Tres Pi Medios / Stanley Black & Decker</strong></a> — Full-Stack Dev · Internal tools & Zendesk integrations.<br/>
-  <a href="https://www.supergiros.com/"><strong>SuperGIROS</strong></a> — Full-Stack Intern · Chatbots & inventory systems.
-</p>
-
-<h4 align="center">🎓 Education — B.S. Systems Engineering (UNAD) · SENA · Oracle Next Education</h4>
-
-<br/>
-
-<h2 align="center">☕ Statistics</h2>
-
-<p align="center">
-    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Ripdiegozz&theme=onedark-duo&date_format=%5BY%20%5DM%20j&mode=weekly&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Ripdiegozz&theme=onedark-duo&date_format=%5BY%20%5DM%20j&mode=weekly&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
 </p>
 
 <!-- <h2 align="center">🚀 Projects</h2>
@@ -46,7 +46,7 @@
 | <p>Movie website made with Next.js.</p> <a href="https://github.com/Ripdiegozz/FilmPassport" target="_blank">`Repository`</a> <a href="https://film-passport.netlify.app/" target="_blank">`Website`</a> | <p>Full-Stack Discord Clone</p> <a href="https://github.com/Ripdiegozz/Eden" target="_blank">`Repository`</a> <a href="https://eden-coral.vercel.app/" target="_blank">`Website`</a> | <p>Full-Stack Notion Clone</p> <a href="https://github.com/Ripdiegozz/Notewave" target="_blank">`Repository`</a> <a href="https://notewave-lake.vercel.app/" target="_blank">`Website`</a> | <p>Full-Stack Ecommerce with Stripe integrated</p> <a href="https://github.com/Ripdiegozz/BluebyteStore" target="_blank">`Repository`</a> <a href="https://bluebyte-store.vercel.app/" target="_blank">`Website`</a> |
 <br/> -->
 
-<h2 align="center">🌱 My Skills</h2>
+<h2 align="center">🧰 Tools I build with</h2>
 
 <h4 align="center">💻 Programming languages (and html)</h4>
 
@@ -82,10 +82,13 @@
 <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2671E5.svg?logo=docker&logoColor=white"></a>
 <a href="#"><img alt="Swagger" src="https://img.shields.io/badge/Swagger-009639.svg?logo=swagger&logoColor=white"></a>
 <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
+<a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white"></a>
+<a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF.svg?logo=githubactions&logoColor=white"></a>
 <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-E95420.svg?logo=postman&logoColor=white"></a>
 <a href="#"><img alt="Nginx" src="https://img.shields.io/badge/Nginx-009639.svg?logo=nginx&logoColor=white"></a>
 <a href="#"><img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC.svg?logo=jira&logoColor=white"></a>
 <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420.svg?logo=ubuntu&logoColor=white"></a>
+<a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624.svg?logo=linux&logoColor=black"></a>
 <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual%20studio&logoColor=white"></a>
 <!-- <a href="#"><img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-7000BF.svg?logo=intellijidea&logoColor=white"></a> -->
 </p>
@@ -97,10 +100,11 @@
 <!-- <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a> -->
 <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
 <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-E0234E.svg?logo=postgresql&logoColor=white"></a>
+<a href="#"><img alt="Elasticsearch" src="https://img.shields.io/badge/Elasticsearch-005571.svg?logo=elasticsearch&logoColor=white"></a>
 <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
 </p>
 
 <br/>
 
-<h2 align="center">📌 Pinned Repositories</h2>
-<p align="center">Take a look at my most outstanding repositories.</p>
+<h2 align="center">🚀 Projects worth a click</h2>
+<p align="center">The repositories I'd show you if we grabbed that coffee.</p>
