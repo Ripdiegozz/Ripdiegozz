@@ -4,24 +4,21 @@
     <img src="https://komarev.com/ghpvc/?username=Ripdiegozz&color=blue"/>
 </p>
 
-<table>
-  <tr>
-    <td width="58%" valign="top">
-      <p>{</p>
-      <p>&nbsp;&nbsp;🎮 <code>My name is</code>: <b>Diego</b>,</p>
-      <p>&nbsp;&nbsp;👨‍💼 <code>Pronouns</code>: <b>He/Him</b>,</p>
-      <p>&nbsp;&nbsp;💼 <code>Role</code>: <b>Full-Stack Engineer</b>,</p>
-      <p>&nbsp;&nbsp;🎓 <code>Education</code>: <b>B.S. Systems Engineering (UNAD) · SENA Software Analysis & Development</b>,</p>
-      <p>&nbsp;&nbsp;📖 <code>Currently learning</code>: <b>Rust</b>,</p>
-      <p>&nbsp;&nbsp;☕ <code>Runs on</code>: <b>Cappuccino with Baileys</b>,</p>
-      <p>&nbsp;&nbsp;💻 <code>Favorite lang</code>: <b>TypeScript</b></p>
-      <p>}</p>
-    </td>
-    <td width="42%" valign="top" align="center">
-      <img src='./assets/kakyoin.gif' width='70%'>
-    </td>
-  </tr>
-</table>
+<img align='right' src='./assets/kakyoin.gif' width='26%'>
+
+{  
+
+* 🎮 `My name is`: **Diego**,
+* 👨‍💼 `Pronouns`: **He/Him**,
+* 💼 `Role`: **Full-Stack Engineer**,
+* 🎓 `Education`: **B.S. Systems Engineering (UNAD) · SENA Software Analysis & Development**,
+* 📖 `Currently learning`: **Rust**,
+* ☕ `Runs on`: **Cappuccino with Baileys**,
+* 💻 `Favorite lang`: **TypeScript**  
+
+}
+
+<br clear="all"/>
 
 <h2 align="center">💼 Places I've shipped code</h2>
 
