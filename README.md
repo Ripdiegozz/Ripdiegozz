@@ -4,7 +4,7 @@
     <img src="https://komarev.com/ghpvc/?username=Ripdiegozz&color=blue"/>
 </p>
 
-<img align='right' src='./assets/kakyoin.gif' width='26%'>
+<img align='right' hspace='40' src='./assets/kakyoin.gif' width='26%'>
 
 {  
 
