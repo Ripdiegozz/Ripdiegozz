@@ -4,7 +4,7 @@
     <img src="https://komarev.com/ghpvc/?username=Ripdiegozz&color=blue"/>
 </p>
 
-<img align='right' src='./assets/1.gif' width='40%'>  
+<img align='right' src='./assets/kakyoin.gif' width='40%'>  
 
 {  
 
@@ -16,6 +16,18 @@
 * 💻 `Favorite lang`: **TypeScript**  
 
 }
+
+<br/>
+
+<h2 align="center">💼 Experience</h2>
+
+<p align="center">
+  <a href="https://wazuh.com/"><strong>Wazuh</strong></a> — Full-Stack Engineer · XDR+SIEM dashboard, CI/CD ownership.<br/>
+  <a href="https://www.stanleyblackanddecker.com/"><strong>Tres Pi Medios / Stanley Black & Decker</strong></a> — Full-Stack Dev · Internal tools & Zendesk integrations.<br/>
+  <a href="https://www.supergiros.com/"><strong>SuperGIROS</strong></a> — Full-Stack Intern · Chatbots & inventory systems.
+</p>
+
+<h4 align="center">🎓 Education — B.S. Systems Engineering (UNAD) · SENA · Oracle Next Education</h4>
 
 <br/>
 
