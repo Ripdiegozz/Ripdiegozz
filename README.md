@@ -11,7 +11,9 @@
 * 🎮 `My name is`: **Diego**,
 * 👨‍💼 `Pronouns`: **He/Him**,
 * 💼 `Role`: **Full-Stack Engineer**,
-* 🎓 `Education`: **B.S. Systems Engineering (UNAD) · SENA Software Analysis & Development**,
+* 🎓 `Education`:
+  * **B.S. Systems Engineering (UNAD)**,
+  * **Software Analysis and Development (SENA)**,
 * 📖 `Currently learning`: **Rust**,
 * ☕ `Runs on`: **Cappuccino with Baileys**,
 * 💻 `Favorite lang`: **TypeScript**  
